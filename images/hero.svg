@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#1a365d"/>
+      <stop offset="1" stop-color="#2b6cb0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#g)" />
+  <text x="50%" y="45%" text-anchor="middle" fill="#fff" font-size="56" font-family="Arial, sans-serif">Premium Otomobiller</text>
+  <text x="50%" y="55%" text-anchor="middle" fill="#e6eef8" font-size="24" font-family="Arial, sans-serif">En kaliteli ve güvenilir otomobilleri keşfedin</text>
+</svg>
